@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=What's+Happening,+I'm+Tyrelle.;Welcome+to+my+GitHub;Web3+is+my+passion.;I+like+learning.;And+I+love+sharing+knowledge.;&center=true&width=500&height=50"></a>
+</p>
+
 
 <!--
 **tadams95/tadams95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,37 +18,91 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 🔭 I’m currently working on www.ragestate.com.
+<p>
+<div align="center" target="_blank">
+  <img src="https://img.shields.io/twitter/follow/tyrelle_adams?style=social">
+  <img src="https://img.shields.io/github/followers/tadams95?style=social">
+</div>
+</p>
 
-#### 🌱 I’m currently learning Solidity, NextJS, and Web3 development frameworks.
+<h2 align="center"> My Stack 🥞 </h2>
+<p>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Git-47A248.svg?style=for-the-badge&logo=Git&logoColor=000000">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
+    <img src="https://img.shields.io/badge/visual studio code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+ <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+ <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000000">
+    <img src="https://img.shields.io/badge/Node-339933.svg?style=for-the-badge&logo=Node.js&logoColor=000000">
+    <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white">
+    <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
+    <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=000000">
+    <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=000000">
+    <img src="https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=redux&logoColor=000000">
+    <img src="https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white">
+        <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Heroku&logoColor=white">
+    <img src="https://img.shields.io/badge/Three.js-000000.svg?style=for-the-badge&logo=Three.js&logoColor=white">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=Three.js&logoColor=000000">
+    <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=000000">
+    <img src="https://img.shields.io/badge/Amazon AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon EC2-FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white">
+    <img src="https://img.shields.io/badge/Wordpress-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white">
+    <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white">
+    <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white">
+     <img src="https://img.shields.io/badge/Alfred-5C1F87.svg?style=for-the-badge&logo=Alfred&logoColor=white">
+     <img src="https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white">
+     <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white">
+   </div>
+   </p>
 
-#### 🤝 I'd love to collaborate on a Web3 project that makes an impact.
+<h2 align="center"> Things to learn next 🤓 <h2>
+    <p>
+      <div align="center">
+<img src="https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=solidity&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Web3.js-F16822.svg?style=for-the-badge&logo=Web3.js&logoColor=white">
+  </div>
+  </p>
+  
+  <h2 align="center"> Current Projects 🙇🏽‍♂️ </h2>
+  <ul>
+    <li> www.ragestate.com </li>
+    <li> Personal Portfolio Site </li>
+    <li> A Tokenization dApp </li>
+  </ul>
+  
+  <h2 align="center"> How to reach me 📲 </h2>
+    <div align="center">
+  <a href="https://twitter.com/tyrelle_adams" rel="nofollow">
+  		<img alt="Tyrelle Adams' Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
+	</a>
+	<a href="https://www.linkedin.com/in/ty-adams-325512135/" rel="nofollow">
+  		<img alt="Tyrelle Adams'" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
+	</a>
+  </div>
 
-#### 📫 How to reach me: tyrelleadams28@gmail.com or via LinkedIn, https://www.linkedin.com/in/ty-adams-325512135/
+  <h2 align="center"> Fun Facts 🎮 </h2>
+  <p> I'm really into going to the gym and PC gaming so if you're trying to run some games or acquire some gains, just let me know! </p>
+  
+  # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
-#### ⚡ Fun fact: I'm really into going to the gym and PC gaming in my free time. HMU if you're trying to run a couple games.
+<br/>
+<p align="left">
+  <a href="http://ragestate.com/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=tadams95&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=tadams95&theme=radical&hide_border=true">		  
+  </a>
+</p>
+<br>
+  
+  <p align="center">
+  <a href="http://ragestate.com/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadams95&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  </a>
+</p>
 
-### Languages
-![image](https://user-images.githubusercontent.com/111528369/219232293-117bbf72-b142-4906-8dd9-20160fca036f.png)
-https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg
-![image](https://user-images.githubusercontent.com/111528369/219232531-42e37de7-329a-41e1-a0db-ed88c60b8a11.png)
-![image](https://user-images.githubusercontent.com/111528369/219232571-68249506-9c90-421c-94cc-54a0db63c217.png)
-![image](https://user-images.githubusercontent.com/111528369/219234154-7046f304-3c44-4488-ba93-77af3a24aaa2.png)
-
-### Technologies
-![image](https://user-images.githubusercontent.com/111528369/219234288-d627ce2e-7c3f-4401-ac32-0682168bf160.png)
-![image](https://user-images.githubusercontent.com/111528369/219234331-a36264b7-ea80-48bf-8a0a-66e8168d2220.png)
-![image](https://user-images.githubusercontent.com/111528369/219234677-b7657a83-21ca-436a-9178-e097a49ea8b9.png)
-
-### Tools and Platforms
-![image](https://user-images.githubusercontent.com/111528369/219234871-61ebb03d-6334-4b49-8e9e-324c179c3d42.png)
-![image](https://user-images.githubusercontent.com/111528369/219234916-a254cca4-6c81-4902-b1f3-1eec3da4f556.png)
-![image](https://user-images.githubusercontent.com/111528369/219234969-95378ebf-0cbe-4f94-9e3d-65a1d54941c8.png)
-![image](https://user-images.githubusercontent.com/111528369/219235000-8f8b8664-3ca2-4051-9a06-af1ae744805d.png)
-![image](https://user-images.githubusercontent.com/111528369/219235037-447af448-90e2-405b-95ed-945bcbfdb98a.png)
-![image](https://user-images.githubusercontent.com/111528369/219235076-eef94f71-bf5f-46ae-adc6-5124d86856ad.png)
-![image](https://user-images.githubusercontent.com/111528369/219235112-e02202d8-f798-4111-b6d7-6b7fac937bc6.png)
-
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Tyrelle's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=tadams95&theme=react-dark&radius=16&custom_title=My%20Contributions%20Graph&title_color=2ce114&point=2ce114&area=true" /></a>
 
 
 
