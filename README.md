@@ -67,9 +67,12 @@ Here are some ideas to get you started:
   
   <h2 align="center"> Current Projects 🙇🏽‍♂️ </h2>
   <ul>
-    <li> www.ragestate.com </li>
-    <li> Personal Portfolio Site </li>
-    <li> A Tokenization dApp </li>
+    <li><i><a href="https://www.ragestate.com">RAGESTATE</a></i><ul><li>An e-commerce site focused on street and athleticwear.</li></ul></li>
+	  <li><i><a href="http://54.244.74.168:8000/">NASA Mission Control</a></i><ul><li>An app to schedule launches to Kepler Exoplanets utilizing NASA and SpaceX data via APIs.</li></ul></li>
+    <li> Personal Portfolio Site <ul>
+	    <li> A site to showcase projects I've completed. </li> </ul> </li>
+	 <li> Tokenization dApp <ul>
+	    <li> Tokenization is a massive opportunity in the Web3 space and I want to know how to contribute. </li> </ul> </li> 
   </ul>
   
   <h2 align="center"> How to reach me 📲 </h2>
@@ -101,6 +104,8 @@ Here are some ideas to get you started:
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadams95&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
+	
+<p align="center"><img src="https://profile-counter.glitch.me/{tadams95}/count.svg"></p>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Tyrelle's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=tadams95&theme=react-dark&radius=16&custom_title=My%20Contributions%20Graph&title_color=2ce114&point=2ce114&area=true" /></a>
 
