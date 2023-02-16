@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 ### Languages
 ![image](https://user-images.githubusercontent.com/111528369/219232293-117bbf72-b142-4906-8dd9-20160fca036f.png)
+https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg
 ![image](https://user-images.githubusercontent.com/111528369/219232531-42e37de7-329a-41e1-a0db-ed88c60b8a11.png)
 ![image](https://user-images.githubusercontent.com/111528369/219232571-68249506-9c90-421c-94cc-54a0db63c217.png)
 ![image](https://user-images.githubusercontent.com/111528369/219234154-7046f304-3c44-4488-ba93-77af3a24aaa2.png)
