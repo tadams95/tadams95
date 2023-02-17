@@ -41,7 +41,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=000000">
     <img src="https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=redux&logoColor=000000">
     <img src="https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white">
-        <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Heroku&logoColor=white">
+        <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white">
     <img src="https://img.shields.io/badge/Three.js-000000.svg?style=for-the-badge&logo=Three.js&logoColor=white">
     <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=Three.js&logoColor=000000">
     <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=000000">
