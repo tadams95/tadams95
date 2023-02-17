@@ -88,7 +88,7 @@ Here are some ideas to get you started:
   <h2 align="center"> Fun Facts 🎮 </h2>
   <p> I'm really into going to the gym and PC gaming so if you're trying to run some games or acquire some gains, just let me know! </p>
   
-  ## Statistics <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> 
+ <h2 align="center"> Statistics <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> </h2>
 
 <br/>
 <p align="left">
