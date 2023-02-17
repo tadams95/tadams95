@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=What's+Happening,+I'm+Tyrelle.;Welcome+to+my+GitHub;Web3+is+my+passion.;I+like+learning.;And+I+love+sharing+knowledge.;&center=true&width=500&height=50"></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nothing+You+Could+Do&pause=1000&color=ececec&center=true&width=435&lines=What's+happening%2C+I'm+Tyrelle.;Web3+is+my+passion.;I+like+learning.;And+I+love+sharing+knowledge." alt="Typing SVG" /></a>
 </p>
 
 
@@ -88,7 +88,7 @@ Here are some ideas to get you started:
   <h2 align="center"> Fun Facts 🎮 </h2>
   <p> I'm really into going to the gym and PC gaming so if you're trying to run some games or acquire some gains, just let me know! </p>
   
-  # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+  ## Statistics <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> 
 
 <br/>
 <p align="left">
