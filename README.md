@@ -69,8 +69,8 @@ Here are some ideas to get you started:
   <ul>
     <li><i><a href="https://www.ragestate.com">RAGESTATE</a></i><ul><li>An e-commerce site focused on street and athleticwear.</li></ul></li>
 	  <li><i><a href="http://54.244.74.168:8000/">NASA Mission Control</a></i><ul><li>An app to schedule launches to Kepler Exoplanets utilizing NASA and SpaceX data via APIs.</li></ul></li>
-    <li> Personal Portfolio Site <ul>
-	    <li> A site to showcase projects I've completed. </li> </ul> </li>
+    <li> <i><a href="https://www.tyrelle.io">tyrelle.io</a></i> <ul>
+	    <li> A personal portfolio site </li> </ul> </li>
 	 <li> Tokenization dApp <ul>
 	    <li> Tokenization is a massive opportunity in the Web3 space and I want to know how to contribute. </li> </ul> </li> 
   </ul>
