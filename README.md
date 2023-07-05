@@ -68,7 +68,7 @@ Here are some ideas to get you started:
   <h2 align="center"> Current Projects 🙇🏽‍♂️ </h2>
   <ul>
     <li><i><a href="https://www.ragestate.com">RAGESTATE</a></i><ul><li>An e-commerce site focused on street and athleticwear.</li></ul></li>
-	    <li><i><a href="https://www.ragestate.com">RAGESTATE Mobile App</a></i><ul><li>An e-commerce and events mobile app built in React Native</li></ul></li>
+	    <li><i><a href="https://apps.apple.com/us/app/ragestate/id6449552575">RAGESTATE Mobile App</a></i><ul><li>An e-commerce and events mobile app built in React Native</li></ul></li>
 	  <li><i><a href="http://54.244.74.168:8000/">NASA Mission Control</a></i><ul><li>An app to schedule launches to Kepler Exoplanets utilizing NASA and SpaceX data via APIs.</li></ul></li>
     <li> <i><a href="https://www.tyrelle.io">tyrelle.io</a></i> <ul>
 	    <li> A personal portfolio site </li> </ul> </li>
