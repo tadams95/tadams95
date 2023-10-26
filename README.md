@@ -37,13 +37,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Node-339933.svg?style=for-the-badge&logo=Node.js&logoColor=000000">
     <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white">
     <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
-    <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=000000">
+    <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=000000">
-    <img src="https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=redux&logoColor=000000">
     <img src="https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white">
         <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white">
     <img src="https://img.shields.io/badge/Three.js-000000.svg?style=for-the-badge&logo=Three.js&logoColor=white">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=Three.js&logoColor=000000">
     <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=000000">
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white">
     <img src="https://img.shields.io/badge/Amazon EC2-FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white">
@@ -56,19 +54,18 @@ Here are some ideas to get you started:
    </div>
    </p>
 
-<h2 align="center"> Things to learn next 🤓 <h2>
+<h2 align="center"> Currently experimenting with 🤓 <h2>
     <p>
       <div align="center">
-<img src="https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=solidity&logoColor=white">
-  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white">
+<img src="https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=solidity&logoColor=white">  
   <img src="https://img.shields.io/badge/Web3.js-F16822.svg?style=for-the-badge&logo=Web3.js&logoColor=white">
   </div>
   </p>
   
-  <h2 align="center"> Current Projects 🙇🏽‍♂️ </h2>
+  <h2 align="center"> Projects 🙇🏽‍♂️ </h2>
   <ul>
     <li><i><a href="https://www.ragestate.com">RAGESTATE</a></i><ul><li>An e-commerce site focused on street and athleticwear.</li></ul></li>
-	    <li><i><a href="https://apps.apple.com/us/app/ragestate/id6449552575">RAGESTATE Mobile App</a></i><ul><li>An e-commerce and events mobile app built in React Native</li></ul></li>
+	    <li><i><a href="https://apps.apple.com/us/app/ragestate/id6449552575">RAGESTATE React Native Mobile App</a></i><ul><li>An e-commerce and events mobile app built in React Native</li></ul></li>
 	  <li><i><a href="http://54.244.74.168:8000/">NASA Mission Control</a></i><ul><li>An app to schedule launches to Kepler Exoplanets utilizing NASA and SpaceX data via APIs.</li></ul></li>
     <li> <i><a href="https://www.tyrelle.io">tyrelle.io</a></i> <ul>
 	    <li> A personal portfolio site </li> </ul> </li>
