@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nothing+You+Could+Do&pause=1000&color=ececec&center=true&width=435&lines=What's+happening%2C+I'm+Tyrelle.;Web3+is+my+passion.;I+like+learning.;And+I+love+sharing+knowledge." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica+Neue&pause=1000&color=262BF1&center=true&vCenter=true&random=false&width=435&lines=What's+up%2C+I'm+Ty.;This+is+my+GitHub." alt="Typing SVG" /></a>
 </p>
 
 
@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 
 <p>
 <div align="center" target="_blank">
-  <img src="https://img.shields.io/twitter/follow/tyrelle_adams?style=social">
+	
+  <a href="https://twitter.com/tyrelle_io">
+    <img src="https://img.shields.io/twitter/follow/tyrelle_io?style=social">
+</a>
+
   <img src="https://img.shields.io/github/followers/tadams95?style=social">
 </div>
 </p>
