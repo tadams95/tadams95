@@ -69,7 +69,7 @@ Here are some ideas to get you started:
   <h2 align="center"> Projects 🙇🏽‍♂️ </h2>
   <ul>
     <li><i><a href="https://www.ragestate.com">RAGESTATE</a></i><ul><li>An e-commerce site focused on street and athleticwear.</li></ul></li>
-	    <li><i><a href="https://apps.apple.com/us/app/ragestate/id6449552575">RAGESTATE React Native Mobile App</a></i><ul><li>An e-commerce and events mobile app built in React Native</li></ul></li>
+	    <li><i><a href="https://apps.apple.com/us/app/ragestate/id6449474339">RAGESTATE React Native Mobile App</a></i><ul><li>An e-commerce and events mobile app built in React Native</li></ul></li>
 	  <li><i><a href="https://github.com/tadams95/nasa-project/tree/master">NASA Mission Control</a></i><ul><li>An app to schedule launches to Kepler Exoplanets utilizing NASA and SpaceX data via APIs.</li></ul></li>
     <li> <i><a href="https://www.tyrelle.io">tyrelle.io</a></i> <ul>
 	    <li> A personal portfolio site </li> </ul> </li>
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
   
   <h2 align="center"> How to reach me 📲 </h2>
     <div align="center">
-  <a href="https://twitter.com/tyrelle_adams" rel="nofollow">
+  <a href="https://x.com/tyrelle_io" rel="nofollow">
   		<img alt="Tyrelle Adams' Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
 	</a>
 	<a href="https://www.linkedin.com/in/ty-adams-325512135/" rel="nofollow">
