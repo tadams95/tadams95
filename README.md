@@ -29,36 +29,28 @@ Here are some ideas to get you started:
 </div>
 </p>
 
-<h2 align="center"> My Stack 🥞 </h2>
+<h2 align="center"> What I work with </h2>
 <p>
   <div align="center">
-    <img src="https://img.shields.io/badge/Git-47A248.svg?style=for-the-badge&logo=Git&logoColor=000000">
     <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
     <img src="https://img.shields.io/badge/visual studio code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white">
  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
  <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000000">
     <img src="https://img.shields.io/badge/Node-339933.svg?style=for-the-badge&logo=Node.js&logoColor=000000">
-    <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white">
     <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
     <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=000000">
-    <img src="https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white">
         <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white">
+	<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
     <img src="https://img.shields.io/badge/Three.js-000000.svg?style=for-the-badge&logo=Three.js&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=000000">
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white">
-    <img src="https://img.shields.io/badge/Amazon EC2-FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white">
-    <img src="https://img.shields.io/badge/Wordpress-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white">
-    <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white">
     <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white">
      <img src="https://img.shields.io/badge/Alfred-5C1F87.svg?style=for-the-badge&logo=Alfred&logoColor=white">
      <img src="https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white">
-     <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white">
    </div>
    </p>
 
-<h2 align="center"> Currently experimenting with 🤓 <h2>
+<h2 align="center"> To work with <h2>
     <p>
       <div align="center">
 <img src="https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=solidity&logoColor=white">  
@@ -66,7 +58,7 @@ Here are some ideas to get you started:
   </div>
   </p>
   
-  <h2 align="center"> Projects 🙇🏽‍♂️ </h2>
+  <h2 align="center"> Projects </h2>
   <ul>
     <li><i><a href="https://www.ragestate.com">RAGESTATE</a></i><ul><li>An e-commerce site focused on street and athleticwear.</li></ul></li>
 	    <li><i><a href="https://apps.apple.com/us/app/ragestate/id6449474339">RAGESTATE React Native Mobile App</a></i><ul><li>An e-commerce and events mobile app built in React Native</li></ul></li>
@@ -77,18 +69,9 @@ Here are some ideas to get you started:
 	    <li> This is a mock tokenized energy platform. FE built with Next and Tailwind. Smart Contracts built in Solidity. Deployed on Base Goerli. </li> </ul> </li> 
   </ul>
   
-  <h2 align="center"> How to reach me 📲 </h2>
-    <div align="center">
-  <a href="https://x.com/tyrelle_io" rel="nofollow">
-  		<img alt="Tyrelle Adams' Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
-	</a>
-	<a href="https://www.linkedin.com/in/ty-adams-325512135/" rel="nofollow">
-  		<img alt="Tyrelle Adams'" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
-	</a>
-  </div>
+ 
+<br/>
 
-  <h2 align="center"> Fun Facts 🎮 </h2>
-  <p> I'm really into going to the gym and PC gaming so if you're trying to run some games or acquire some gains, just let me know! </p>
   
  <h2 align="center"> Languages <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> </h2>
 
