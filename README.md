@@ -80,8 +80,4 @@
     <img src="https://profile-counter.glitch.me/{tadams95}/count.svg">
 </p>
 
-<p align="center">
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img alt="Tyrelle's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=tadams95&theme=react-dark&radius=16&custom_title=My%20Contributions%20Graph&title_color=2ce114&point=2ce114&area=true">
-    </a>
-</p>
+
