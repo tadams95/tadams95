@@ -60,7 +60,13 @@
     <li>
         <i><a href="https://www.kardashev.network">Kardashev.network</a></i>
         <ul>
-            <li>This is a mock tokenized energy platform. FE built with Next and Tailwind. Smart Contracts built in Solidity. Deployed on Base Goerli.</li>
+            <li>A mock tokenized energy platform. FE built with Next and Tailwind. Smart Contracts built in Solidity. Deployed on Base Goerli.</li>
+        </ul>
+    </li>
+     <li>
+        <i><a href="https://www.4ex.ninja">4ex.ninja</a></i>
+        <ul>
+            <li>A Forex Signals service based on MA crossovers running 24/5.</li>
         </ul>
     </li>
 </ul>
