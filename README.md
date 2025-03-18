@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
     <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white">
     <img src="https://img.shields.io/badge/Alfred-5C1F87.svg?style=for-the-badge&logo=Alfred&logoColor=white">
-    <img src="https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white">
+    
 </p>
 
 <h2 align="center">To work with</h2>
@@ -35,6 +35,7 @@
     <img src="https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=solidity&logoColor=white">
     <img src="https://img.shields.io/badge/Web3.js-F16822.svg?style=for-the-badge&logo=Web3.js&logoColor=white">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <img src="https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white">
 </p>
 
 <h2 align="center">Projects</h2>
