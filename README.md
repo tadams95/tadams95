@@ -52,7 +52,7 @@
         </ul>
     </li>
     <li>
-        <i><a href="https://apps.apple.com/us/app/ragestate/id6449474339">RAGESTATE React Native Mobile App</a></i>
+        <i><a href="https://apps.apple.com/us/app/ragestate/id6449474339">RAGESTATE Mobile App</a></i>
         <ul>
             <li>E-commerce events and merch mobile app</li>
         </ul>
